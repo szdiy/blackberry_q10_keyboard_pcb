@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Q10_keyboard-rescue)(type Legacy)(uri ${KIPRJMOD}/Q10_keyboard-rescue.lib)(options "")(descr ""))
+)

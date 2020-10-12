@@ -1,0 +1,393 @@
+89166476363082
+Display
+AG12864E
+STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
+AG12864E Graphics Display 128x64 Ampire
+0
+24
+20
+Display
+Adafruit_SSD1306
+Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
+Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI 
+0
+8
+8
+Display
+Adafruit_SSD1306_No_Mounting_Holes
+Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
+Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI 
+0
+8
+8
+Display
+CR2013-MI2120
+CR2013-MI2120 ILI9341 LCD Breakout http://pan.baidu.com/s/11Y990
+CR2013-MI2120 ILI9341 LCD Breakout
+0
+18
+14
+Display
+EA-eDIP128B-XXX
+LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip128-6e.pdf
+LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI
+0
+32
+32
+Display
+EA_DOGS104X-A
+LCD 4x10 character 3.3V VDD I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf
+LCD 4x10 character 3.3V VDD I2C or SPI
+0
+14
+14
+Display
+EA_DOGXL160-7
+Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
+EA_DOGXL160-7
+0
+22
+22
+Display
+EA_DOGXL160-7_Backlight
+Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
+EA_DOGXL160-7_Backlight
+0
+22
+22
+Display
+EA_T123X-I2C
+http://www.lcd-module.de/pdf/doma/t123-i2c.pdf
+3 Line 12 character wide alpha numeric LCD
+0
+6
+6
+Display
+EA_eDIP160-XXX
+LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf
+LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI
+0
+40
+40
+Display
+EA_eDIP240-XXX
+LCD graphical display LED backlight 240x128 http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip240-7e.pdf
+LCD graphical display LED backlight 240x128
+0
+40
+40
+Display
+EA_eDIP320X-XXX
+LCD display 320x340 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf
+LCD display 320x340 RS-232 I2C or SPI
+0
+48
+48
+Display
+EA_eDIPTFT32-XXX
+TFT-graphic display 320x240 16 bit colour with led backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft32-ae.pdf
+TFT-graphic display 320x240 16 bit colour with led backlight
+0
+40
+40
+Display
+EA_eDIPTFT43-ATC
+http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf
+TFT graphical display 480x272 16-bit colour with LED backlight
+0
+40
+40
+Display
+EA_eDIPTFT43-XXX
+TFT graphical display 480x272 16-bit colour with LED backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf
+TFT graphical display 480x272 16-bit colour with LED backlight
+0
+40
+40
+Display
+EA_eDIPTFT57-XXX
+http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft57-ae.pdf
+TFT-graphic display 640x480 16 bit colour
+0
+48
+48
+Display
+EA_eDIPTFT70-ATC
+TFT-graphical display 800x480 16-bit colours with capacitive touch panel http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf
+TFT-graphical display 800x480 16-bit colours with capacitive touch panel
+0
+48
+48
+Display
+EA_eDIPTFT70-XXX
+TFT-graphical display 800x480 16-bit colours http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf
+TFT-graphical display 800x480 16-bit colours and touch display
+0
+48
+48
+Display
+HDSM-441B_HDSM-443B
+2 Digit 7 segemnt blue LED, right hand decimal, https://docs.broadcom.com/docs/AV02-1589EN
+2 Digit 7 segment blue LED
+0
+10
+10
+Display
+HDSM-541B_HDSM-543B
+2 digit 7 segement blue LED with right hand decimal, https://docs.broadcom.com/docs/AV02-1588EN
+2 digit 7 segement blue LED with right hand decimal
+0
+10
+10
+Display
+HDSP-48xx
+10-Element Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Bar Graph Array
+0
+20
+20
+Display
+HDSP-4830
+10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Red Bar Graph Array
+0
+20
+20
+Display
+HDSP-4832
+10-Element Red Yellow Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Red Yellow Green Bar Graph Array
+0
+20
+20
+Display
+HDSP-4836
+10-Element Red Yellow Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Red Yellow Green Bar Graph Array
+0
+20
+20
+Display
+HDSP-4840
+10-Element Yellow Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Yellow Bar Graph Array
+0
+20
+20
+Display
+HDSP-4850
+10-Element Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Green Bar Graph Array
+0
+20
+20
+Display
+HLCP-J100
+10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Red Bar Graph Array
+0
+20
+20
+Display
+HY1602E
+http://www.icbank.com/data/ICBShop/board/HY1602E.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+20
+16
+Display
+LCD-016N002L
+16 x 2 Character LCD, http://www.vishay.com/product?docid=37299
+LCD-016N002L 16 x 2 Character LCD
+0
+24
+20
+Display
+LM16255
+LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html
+LCD 12x2
+0
+14
+14
+Display
+NHD-0420H1Z
+NHD-0420H1Z LCD http://www.newhavendisplay.com/specs/NHD-0420H1Z-FSW-GBW-33V3.pdf
+NHD-0420H1Z LCD
+0
+16
+16
+Display
+RC1602A
+http://www.raystar-optronics.com/down.php?ProID=18
+LCD 16x2 Alphanumeric 16pin
+0
+22
+18
+Display
+WC1602A
+LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+20
+16
+Q10_keyboard
+BBQ10KBD
+
+
+0
+0
+0
+Q10_keyboard
+BM14B(0.8)-24DS-0.4V(53)
+
+
+0
+28
+28
+Q10_keyboard
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Q10_keyboard
+C_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Q10_keyboard
+Conn4 1.0mm pitch
+
+
+0
+4
+4
+Q10_keyboard
+Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, hand-soldering, 3.2x2.5mm^2 package
+SMD SMT crystal hand-soldering
+0
+4
+4
+Q10_keyboard
+JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal
+JST SH series connector, SM04B-SRSS-TB (http://www.jst-mfg.com/product/pdf/eng/eSH.pdf), generated with kicad-footprint-generator
+connector JST SH top entry
+0
+6
+5
+Q10_keyboard
+LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+Q10_keyboard
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+Q10_keyboard
+OSHW-Logo2_9.8x8mm_SilkScreen
+Open Source Hardware Symbol
+Logo Symbol OSHW
+0
+0
+0
+Q10_keyboard
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Q10_keyboard
+PinHeader_1x06_P2.54mm_Vertical
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+Q10_keyboard
+PinHeader_2x05_P1.27mm_Vertical_SMD
+surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows
+Surface mounted pin header SMD 2x05 1.27mm double row
+0
+10
+10
+Q10_keyboard
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Q10_keyboard
+R_0603_1608Metric_Pad1.05x0.95mm_HandSolder
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+Q10_keyboard
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+Q10_keyboard
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+Q10_keyboard
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+Q10_keyboard
+SW_SPDT_PCM12
+Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf
+
+0
+7
+3
+Q10_keyboard
+TQFP-32_7x7mm_P0.8mm
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+32
+32
+Q10_keyboard
+TestPoint_Pad_D1.0mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+Q10_keyboard
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+Q10_keyboard
+USB_Micro-B_Molex_47346-0001
+http://www.molex.com/pdm_docs/sd/473460001_sd.pdf
+Micro-USB SMD
+0
+11
+6
