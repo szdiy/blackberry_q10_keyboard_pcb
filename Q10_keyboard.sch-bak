@@ -191,7 +191,7 @@ $Comp
 L Q10_keyboard-rescue:R_Small-Device R3
 U 1 1 5EF631AD
 P 5650 1950
-F 0 "R3" V 5550 1850 50  0000 L CNN
+F 0 "R3" V 5700 1750 50  0000 L CNN
 F 1 "20R" V 5550 2000 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5650 1950 50  0001 C CNN
 F 3 "~" H 5650 1950 50  0001 C CNN
@@ -204,7 +204,7 @@ $Comp
 L Q10_keyboard-rescue:R_Small-Device R2
 U 1 1 5EF64763
 P 5650 1750
-F 0 "R2" V 5550 1650 50  0000 L CNN
+F 0 "R2" V 5700 1550 50  0000 L CNN
 F 1 "20R" V 5550 1800 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5650 1750 50  0001 C CNN
 F 3 "~" H 5650 1750 50  0001 C CNN
@@ -355,8 +355,6 @@ Wire Wire Line
 	6750 1750 6750 1700
 Connection ~ 6750 1700
 Wire Wire Line
-	5050 1250 5350 1250
-Wire Wire Line
 	6450 1350 6300 1350
 Wire Wire Line
 	6300 1350 6300 1250
@@ -374,31 +372,14 @@ F 3 "http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF" H 5900 2700 50  0001 C 
 	1    5900 2700
 	1    0    0    -1  
 $EndComp
-$Comp
-L Q10_keyboard-rescue:USB_C_Plug_USB2.0-Connector P1
-U 1 1 5EFAD10F
-P 4450 1850
-F 0 "P1" H 4557 2717 50  0000 C CNN
-F 1 "USB_C_Plug_USB2.0" H 4557 2626 50  0000 C CNN
-F 2 "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 4600 1850 50  0001 C CNN
-F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 4600 1850 50  0001 C CNN
-	1    4450 1850
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	5400 2600 5300 2600
 Wire Wire Line
 	5300 2600 5300 1950
 Wire Wire Line
-	5300 1950 5050 1950
-Connection ~ 5300 1950
-Wire Wire Line
-	5050 1750 5150 1750
-Wire Wire Line
 	5400 2800 5150 2800
 Wire Wire Line
 	5150 2800 5150 1750
-Connection ~ 5150 1750
 Wire Wire Line
 	5150 1750 5550 1750
 Wire Wire Line
@@ -437,8 +418,7 @@ $EndComp
 Wire Wire Line
 	4150 3350 4150 3250
 Connection ~ 4150 3250
-NoConn ~ 5050 1450
-NoConn ~ 5050 1550
+NoConn ~ 5050 1400
 $Comp
 L power:GND #PWR0113
 U 1 1 5F027169
@@ -1035,30 +1015,27 @@ Wire Wire Line
 $Comp
 L Q10_keyboard-rescue:C_Small-Device C7
 U 1 1 5F2C90F5
-P 5350 1400
-F 0 "C7" H 5442 1446 50  0000 L CNN
-F 1 "104" H 5442 1355 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5350 1400 50  0001 C CNN
-F 3 "~" H 5350 1400 50  0001 C CNN
-	1    5350 1400
+P 5600 1400
+F 0 "C7" H 5692 1446 50  0000 L CNN
+F 1 "104" H 5692 1355 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 5600 1400 50  0001 C CNN
+F 3 "~" H 5600 1400 50  0001 C CNN
+	1    5600 1400
 	-1   0    0    1   
 $EndComp
 $Comp
 L power:GND #PWR0130
 U 1 1 5F2CBA13
-P 5350 1550
-F 0 "#PWR0130" H 5350 1300 50  0001 C CNN
-F 1 "GND" H 5355 1377 50  0000 C CNN
-F 2 "" H 5350 1550 50  0001 C CNN
-F 3 "" H 5350 1550 50  0001 C CNN
-	1    5350 1550
+P 5600 1500
+F 0 "#PWR0130" H 5600 1250 50  0001 C CNN
+F 1 "GND" H 5605 1327 50  0000 C CNN
+F 2 "" H 5600 1500 50  0001 C CNN
+F 3 "" H 5600 1500 50  0001 C CNN
+	1    5600 1500
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5350 1250 5350 1300
-Connection ~ 5350 1250
-Wire Wire Line
-	5350 1500 5350 1550
+	5600 1250 5600 1300
 Wire Wire Line
 	4950 3900 4950 3850
 Wire Wire Line
@@ -1080,8 +1057,6 @@ F 3 "~" H 650 1200 50  0001 C CNN
 	1    650  1200
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	5350 1250 5750 1250
 $Comp
 L Q10_keyboard-rescue:C_Small-Device C9
 U 1 1 5F423680
@@ -1203,10 +1178,76 @@ Text Label 2700 2300 0    50   ~ 0
 ROW4
 Text Label 900  3000 0    50   ~ 0
 COL4
-Text Label 650  3000 0    50   ~ 0
+Text Label 900  3300 0    50   ~ 0
 COL2
 Text Label 2700 2200 0    50   ~ 0
 COL5
 Text Label 900  3100 0    50   ~ 0
 ROW3
+$Comp
+L Q10_keyboard-rescue:R_Small-Device R10
+U 1 1 5F8AAB81
+P 6900 2250
+F 0 "R10" H 6959 2296 50  0000 L CNN
+F 1 "5.1K" H 6959 2205 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6900 2250 50  0001 C CNN
+F 3 "~" H 6900 2250 50  0001 C CNN
+	1    6900 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR03
+U 1 1 5F8BE9BA
+P 6900 2350
+F 0 "#PWR03" H 6900 2100 50  0001 C CNN
+F 1 "GND" H 6905 2177 50  0000 C CNN
+F 2 "" H 6900 2350 50  0001 C CNN
+F 3 "" H 6900 2350 50  0001 C CNN
+	1    6900 2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 1250 5750 1250
+Wire Wire Line
+	6900 2150 6750 2150
+$Comp
+L power:+5V #PWR?
+U 1 1 5F922F5C
+P 5200 1200
+F 0 "#PWR?" H 5200 1050 50  0001 C CNN
+F 1 "+5V" H 5215 1373 50  0000 C CNN
+F 2 "" H 5200 1200 50  0001 C CNN
+F 3 "" H 5200 1200 50  0001 C CNN
+	1    5200 1200
+	1    0    0    -1  
+$EndComp
+Connection ~ 5300 1950
+Wire Wire Line
+	5300 1950 5050 1950
+Connection ~ 5150 1750
+Wire Wire Line
+	5050 1750 5150 1750
+Wire Wire Line
+	5050 1750 5050 1850
+Wire Wire Line
+	5050 1200 5200 1200
+$Comp
+L Q10_keyboard-rescue:USB_C_Plug_USB2.0-Connector P1
+U 1 1 5F979CA7
+P 4450 1950
+F 0 "P1" H 4557 2925 50  0000 C CNN
+F 1 "USB_C_Plug_USB2.0-Connector" H 4557 2834 50  0000 C CNN
+F 2 "" H 4600 1950 50  0001 C CNN
+F 3 "" H 4600 1950 50  0001 C CNN
+	1    4450 1950
+	1    0    0    -1  
+$EndComp
+Text Label 6750 2150 0    50   ~ 0
+CC1
+Text Label 5050 2150 0    50   ~ 0
+CC1
+NoConn ~ 5050 1500
+NoConn ~ 5050 1650
+NoConn ~ 5050 2350
+NoConn ~ 5050 2450
 $EndSCHEMATC
